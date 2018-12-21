@@ -58,7 +58,7 @@
                 "rating": 4.3
             }
         ]
-        console.log(companies[0].name);
+        console.log(companies[0].name); //Big Corporation
     </script>
 </body>
 </html>
@@ -92,7 +92,7 @@
                 "rating": 4.3
             }
         ]`
-        console.log(JSON.parse(companies)[1].name);
+        console.log(JSON.parse(companies)[1].name); //Small Startup
     </script>
 </body>
 </html>
